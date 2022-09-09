@@ -2,3 +2,7 @@
 https://hacchi-man.hatenablog.com/entry/2020/08/14/220000
 
 https://qiita.com/soramimi_jp/items/4bdffae3f8660b7e6874
+
+GITコマンドの実装に使えそうな部分
+https://github.com/yayorozu/UnityEditorGit/blob/cd6abdab375b7f0ab917caeffaef1aaee13ad925/Script/Module/GitModule.cs#L105
+https://github.com/yayorozu/UnityEditorGit/blob/cd6abdab375b7f0ab917caeffaef1aaee13ad925/Script/Command.cs#L59
